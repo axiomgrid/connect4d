@@ -1,5 +1,4 @@
-# CONNECT 4D // Tesseract Strategy Matrix
-
+# CONNECT 4D 
 Vibecoded by Lorenzo Granado
 
 > An interactive four-dimensional Connect Four and Qubic strategy matrix played inside a $4 \times 4 \times 4 \times 4$ Tesseract ($256$ hyper-cells, $10$ synchronized 3D projection cubes, and $520$ winning lines).
